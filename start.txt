@@ -1,0 +1,3 @@
+import weightCmd_UI as wcui
+ui = wcui.weightCmd_ui()
+ui.show()
