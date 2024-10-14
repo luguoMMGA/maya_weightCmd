@@ -1,0 +1,2 @@
+# maya_weightCmd
+这是一个maya的小插件。该插件设计了两个命令：divideWeight和weightSmooth。前者用于多个关节对一个关节的
